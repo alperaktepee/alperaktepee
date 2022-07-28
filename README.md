@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alperaktepee
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning React JS Ecosystem
+- 👀 I’m interested in Frontend Developing
+- 🌱 I’m currently learning React JS 
 
 - 📫 How to reach me alperaktepe98@gmail.com
 
