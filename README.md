@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alperaktepee
 - 👀 I’m interested in Frontend Developing
-- 🌱 I’m currently learning React JS 
+
+My portfolio is alperaktepe.vercel.app
 
 - 📫 How to reach me alperaktepe98@gmail.com
 
