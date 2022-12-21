@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Developing
 
 
-Tech Stack: HTML 5,CSS 3, JavaScript, TypeScript, Bootstrap, SASS, React JS, Redux Toolkit
+Tech Stack: HTML 5, CSS 3, SASS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React JS, Redux Toolkit
 
 My portfolio is alperaktepe.vercel.app
 
